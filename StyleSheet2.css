@@ -1,0 +1,41 @@
+﻿body {
+    
+}
+.brand-centered {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+.navbar-brand {
+  display: flex;
+  align-items: center;
+}
+
+#mainBar{
+    padding-left:0px;
+    padding-right:0px;
+}
+
+#mainSec {
+    background-image: url('Images/images.jpg');
+}
+#img{
+    background-color:transparent;
+    text-align:center;
+    color:teal;
+    font-weight:900;
+    text-size-adjust:200%;
+}
+h1{
+    font-weight:900;
+    text-size-adjust:200%;
+    
+}
+#slogan{
+    font-weight:900;
+    text-size-adjust:200%;
+    color:palevioletred;
+}
